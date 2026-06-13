@@ -1,0 +1,7 @@
+# clasp（GASのローカル開発ツール）
+.clasp.json
+.clasprc.json
+
+# OS / エディタ
+.DS_Store
+*.swp
